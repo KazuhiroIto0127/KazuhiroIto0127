@@ -4,11 +4,11 @@
 
 ### 言語
 
-- Ruby, Javascript, Swift
+- Ruby, Javascript, Swift, Go
 
 ### フレームワーク
 
-- Ruby on Rails, React, Vue.js, Nuxt.js, Next.js
+- Ruby On Rails, React, Vue.js, Nuxt.js, Next.js
 
 ### DB
 
