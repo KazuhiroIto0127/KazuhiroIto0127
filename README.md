@@ -8,7 +8,7 @@
 
 ### フレームワーク
 
-- Ruby On Rails, React, Vue.js, Nuxt.js, Next.js
+- Ruby on Rails, React, Vue.js, Nuxt.js, Next.js
 
 ### DB
 
