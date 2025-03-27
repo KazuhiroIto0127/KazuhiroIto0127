@@ -4,7 +4,7 @@
 
 ### 言語
 
-- Ruby, Javascript, Swift, Go
+- Ruby, Javascript, Swift, Go, Typescript, Haskell
 
 ### フレームワーク
 
@@ -16,4 +16,4 @@
 
 ### インフラ
 
-- AWS, Firebase
+- AWS, Firebase, Google Cloud
